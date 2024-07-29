@@ -23,7 +23,7 @@ word2:    p   q   r   s
 merged: a p b q   r   s
 
 code 
-class Solution {
+<class Solution {
 public:
     string mergeAlternately(string word1, string word2) {
         int n = word1.length();
@@ -46,4 +46,4 @@ public:
         }
         return s;
     }
-};
+};>
